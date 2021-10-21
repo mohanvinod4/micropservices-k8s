@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
   - name: vinod-k8s
-    image: ngnix
+    image: nginx
     ports:
     - containerPort: 80
